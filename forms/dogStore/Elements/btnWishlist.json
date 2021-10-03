@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnWishlist",
-  "left": 10,
+  "left": 7,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 52,
+  "top": 51,
   "value": "Wishlist",
   "width": "auto"
 }
