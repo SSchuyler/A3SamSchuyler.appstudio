@@ -14,7 +14,7 @@ let pass2 = inptPass2.value
 let answer = compare(pass1,pass2)
     
   if (answer == 0) {
-   lblMatch.value = ("Success!")
+   lblMatch.value = ("Success")
 }
   else {
    lblMatch.value = ("Try again...")
